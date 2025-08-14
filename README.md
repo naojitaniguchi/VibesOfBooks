@@ -14,3 +14,7 @@
 [OishiiGohan](https://github.com/naojitaniguchi/OishiiGohan "高瀬隼子さんの「おいしいごはんが食べられますように」を読んで書いた文章から生成したシェーダー")
 
 [JimiHendrixExperience](https://github.com/naojitaniguchi/JimiHendrixExperience "滝口悠生さんの「ジミ・ヘンドリックス・エクスペリエンス」を読んで書いた文章から生成したシェーダー。")
+
+[BecauseInternet](https://github.com/naojitaniguchi/BecauseInternet "グレッチェン・マカロックさんの「インターネットは言葉をどう変えたか、デジタル時代の＜言語＞地図」を読んで書いた文章から生成したシェーダー。")
+
+
