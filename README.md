@@ -17,6 +17,7 @@
 
 [BecauseInternet](https://github.com/naojitaniguchi/BecauseInternet "グレッチェン・マカロックさんの「インターネットは言葉をどう変えたか、デジタル時代の＜言語＞地図」を読んで書いた文章から生成したシェーダー。")
 
-
 [JapanTrip](https://github.com/naojitaniguchi/JapanTrip "岩城けいさんの「ジャパン・トリップ」を読んで書いた文章から生成したシェーダー。")
+
+[GengogakuValiTudu](https://github.com/naojitaniguchi/GengogakuValiTudu "川添愛さんの「言語学バーリトゥード」を読んで書いた文章から生成したシェーダー。")
 
