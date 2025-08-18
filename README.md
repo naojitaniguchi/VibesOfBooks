@@ -21,3 +21,4 @@
 
 [GengogakuValiTudu](https://github.com/naojitaniguchi/GengogakuValiTudu "川添愛さんの「言語学バーリトゥード」を読んで書いた文章から生成したシェーダー。")
 
+[AiChan](https://github.com/naojitaniguchi/AiChan "宇井彩野さんの「愛ちゃんのモテる人生」を読んで書いた文章から生成したシェーダー。")
