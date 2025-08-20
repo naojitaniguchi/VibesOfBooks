@@ -26,3 +26,5 @@
 [AiChan](https://github.com/naojitaniguchi/AiChan "宇井彩野さんの「愛ちゃんのモテる人生」を読んで書いた文章から生成したシェーダー。")
 
 [Retsu](https://github.com/naojitaniguchi/Retsu "中村文則さんの「列」を読んで書いた文章から生成したシェーダー。")
+
+[Comiket](https://github.com/naojitaniguchi/Comiket "カスガさんの「コミケへの聖歌」を読んで書いた文章から生成したシェーダー。")
