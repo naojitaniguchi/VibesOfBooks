@@ -28,3 +28,5 @@
 [Retsu](https://github.com/naojitaniguchi/Retsu "中村文則さんの「列」を読んで書いた文章から生成したシェーダー。")
 
 [Comiket](https://github.com/naojitaniguchi/Comiket "カスガさんの「コミケへの聖歌」を読んで書いた文章から生成したシェーダー。")
+
+[Comiket](https://github.com/naojitaniguchi/Cultish "Amanda Montellさんの「カルトのことば」、原題はCULTISHを読んで書いた文章から生成したシェーダー。")
