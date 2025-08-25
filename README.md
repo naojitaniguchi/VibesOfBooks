@@ -29,4 +29,6 @@
 
 [Comiket](https://github.com/naojitaniguchi/Comiket "カスガさんの「コミケへの聖歌」を読んで書いた文章から生成したシェーダー。")
 
-[Comiket](https://github.com/naojitaniguchi/Cultish "Amanda Montellさんの「カルトのことば」、原題はCULTISHを読んで書いた文章から生成したシェーダー。")
+[Cultish](https://github.com/naojitaniguchi/Cultish "Amanda Montellさんの「カルトのことば」、原題はCULTISHを読んで書いた文章から生成したシェーダー。")
+
+[MyDisappearance](https://github.com/naojitaniguchi/MyDisappearance "中村文則さんの「私の消滅」を読んで書いた文章から生成したシェーダー。")
