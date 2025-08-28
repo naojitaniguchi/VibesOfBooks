@@ -34,3 +34,5 @@
 [MyDisappearance](https://github.com/naojitaniguchi/MyDisappearance "中村文則さんの「私の消滅」を読んで書いた文章から生成したシェーダー。")
 
 [Lionstreat](https://github.com/naojitaniguchi/Lionstreat "小川糸さんの「ライオンのおやつ」を読んで書いた文章から生成したシェーダー。")
+
+[TechniqueOfAnalogy](https://github.com/naojitaniguchi/TechniqueOfAnalogy "せきしろさんの「たとえる技術」を読んで書いた文章から生成したシェーダー。")
