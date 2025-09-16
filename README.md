@@ -37,4 +37,6 @@
 
 [TechniqueOfAnalogy](https://github.com/naojitaniguchi/TechniqueOfAnalogy "せきしろさんの「たとえる技術」を読んで書いた文章から生成したシェーダー。")
 
-[ValiTude2](https://github.com/naojitaniguchi/ValiTude2 "川添愛さんの「言語学バーリ・トゥード2」")
+[ValiTude2](https://github.com/naojitaniguchi/ValiTude2 "川添愛さんの「言語学バーリ・トゥード2」を読んで書いた文章から生成したシェーダー。")
+
+[Ganguro](https://github.com/naojitaniguchi/Ganguro "久保友香さんの「ガングロ族の最後」を読んで書いた文章から生成したシェーダー。")
