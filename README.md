@@ -40,3 +40,8 @@
 [ValiTude2](https://github.com/naojitaniguchi/ValiTude2 "川添愛さんの「言語学バーリ・トゥード2」を読んで書いた文章から生成したシェーダー。")
 
 [Ganguro](https://github.com/naojitaniguchi/Ganguro "久保友香さんの「ガングロ族の最後」を読んで書いた文章から生成したシェーダー。")
+
+[YojouhanTimeMachineBlues](https://github.com/naojitaniguchi/YojouhanTimeMachineBlues "森見登美彦さんの「四畳半タイムマシンブルース」を読んで書いた文章から生成したシェーダー。")
+
+
+
